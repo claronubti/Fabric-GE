@@ -20,7 +20,7 @@ from pyspark.sql.functions import col, current_date
 data = [
     (1, "Electronics", 750.00, "Mumbai"),
     (2, "Apparel", 120.50, "Delhi-github"),
-    (3, "Electronics", 1200.00, "Bangalore"),
+    (3, "Electronics", 1200.00, "Bangalore-cubbon"),
     (4, "Home Decor", 340.25, "Chennai"),
     (5, "Apparel", 89.90, "Hyderabad")
 ]
